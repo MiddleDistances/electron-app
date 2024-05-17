@@ -24,7 +24,7 @@ Before you start, make sure you have the following installed:
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/your-username/electron-app.git
+   git clone https://github.com/MiddleDistances/electron-app.git 
    ```
 
 2. **Navigate to the project directory**:
