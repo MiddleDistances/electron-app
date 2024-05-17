@@ -1,7 +1,7 @@
 
 # Electron App
 
-This is a test Electron application for Cycliq.
+This is a test Electron application for Cycliq. The UI was rapidly generated from a screenshot made by https://v0.dev/
 
 ## Table of Contents
 
